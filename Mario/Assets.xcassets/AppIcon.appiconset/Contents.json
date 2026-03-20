@@ -1,7 +1,10 @@
 {
   "images" : [
     {
+<<<<<<< HEAD
       "filename" : "appicon.png",
+=======
+>>>>>>> 2c4241203c2f9aa24e99147e096e5b5fdcc07aaf
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
